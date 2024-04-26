@@ -13,6 +13,10 @@ Responsive Design: The application is designed to adapt to different screen size
 Technologies Used:
 
 HTML: Markup for structuring the web page.
+<br>
 CSS: Styling for layout and responsiveness.
+<br>
 JavaScript: Interactivity and functionality, including local storage management.
+<br>
 Local Storage: Notes are stored locally in the browser, allowing users to access their notes even after closing the app.
+<br>
